@@ -1,3 +1,4 @@
+# https://mp.weixin.qq.com/s/li_UBzEUvLmaL207eFhyvw
 # https://fanyi.baidu.com/
 
 import requests
